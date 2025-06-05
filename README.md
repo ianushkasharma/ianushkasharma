@@ -2,7 +2,7 @@
 
 ![logo](https://github.com/ianushkasharma/ianushkasharma/blob/main/Banner.png)
 
-👩‍💻 I make sense of messy data — and have fun doing it!<br><br>I'm a curious mind with a deep passion for Data Science, currently on a mission to turn raw numbers into stories that spark insight and inspire action.<br><br>📊 I’m diving deep into data analysis and visualization, where I enjoy making complex data clear, beautiful, and impactful. Whether it’s a sleek dashboard or an insightful plot, I love uncovering the patterns that drive smarter decisions.<br><br>🧠 Always learning.<br>🔍 Always exploring.  <br>💡 Always visualizing.<br><br>I'm constantly working with tools like Pandas, Matplotlib, and Seaborn to bring data to life — blending analytics with creativity to make data not just informative, but influential.<br><br> 
+👩‍💻 I make sense of messy data and have fun doing it!<br><br>I'm a curious mind with a deep passion for Data Science, currently on a mission to turn raw numbers into stories that spark insight and inspire action.<br><br>📊 I’m diving deep into data analysis and visualization, where I enjoy making complex data clear, beautiful, and impactful. Whether it’s a sleek dashboard or an insightful plot, I love uncovering the patterns that drive smarter decisions.<br><br>🧠 Always learning.<br>🔍 Always exploring.  <br>💡 Always visualizing.<br><br>I'm constantly working with tools like Pandas, Matplotlib, and Seaborn to bring data to life — blending analytics with creativity to make data not just informative, but influential.<br><br> 
 > 💬 My mission? To transform data into visual stories that make an impact — not just inform.
 
 
